@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/NewLBS/static/css/main.17678bf4.css",
+    "main.js": "/NewLBS/static/js/main.f18c9c4d.js",
+    "static/js/488.9c1910f8.chunk.js": "/NewLBS/static/js/488.9c1910f8.chunk.js",
+    "static/media/better-to-belong.png": "/NewLBS/static/media/better-to-belong.dab37d80aacf78ee46ee.png",
+    "static/media/person2.png": "/NewLBS/static/media/person2.580c606563006f20358a.png",
+    "static/media/hero.png": "/NewLBS/static/media/hero.87dcb2d75dfdb0a89a4f.png",
+    "static/media/person1.jpg": "/NewLBS/static/media/person1.2f4fc9b5cdcec4d4cffc.jpg",
+    "static/media/person3.jpg": "/NewLBS/static/media/person3.964c450e2c103ab06831.jpg",
+    "static/media/footer.PNG": "/NewLBS/static/media/footer.92ca5bf9f18bbbd91281.PNG",
+    "static/media/Phone.PNG": "/NewLBS/static/media/Phone.1dfada1b01cf9bdbd3c0.PNG",
+    "static/media/logo.svg": "/NewLBS/static/media/logo.85d55f8af2a3d2897b831d54181c8398.svg",
+    "static/media/Insurance.PNG": "/NewLBS/static/media/Insurance.51061e1a14aed80294e0.PNG",
+    "static/media/Savings.PNG": "/NewLBS/static/media/Savings.85ee0d00a69205a6c593.PNG",
+    "static/media/Mortgages.PNG": "/NewLBS/static/media/Mortgages.c164d56556108919596b.PNG",
+    "static/media/Hand.PNG": "/NewLBS/static/media/Hand.ff60be1c57cc516f5406.PNG",
+    "static/media/ios.PNG": "/NewLBS/static/media/ios.1fcd4bfec1d02007bc2f.PNG",
+    "static/media/android.PNG": "/NewLBS/static/media/android.db8ac6d0daa3897c43fc.PNG",
+    "static/media/Home.PNG": "/NewLBS/static/media/Home.5c0f20965980f1ae5c6e.PNG",
+    "index.html": "/NewLBS/index.html",
+    "static/media/green-star.svg": "/NewLBS/static/media/green-star.93c493586ed2654c937d1112f2fadb65.svg",
+    "static/media/white-star.svg": "/NewLBS/static/media/white-star.692f640bea0f6e06eefaafae5cd77eae.svg",
+    "main.17678bf4.css.map": "/NewLBS/static/css/main.17678bf4.css.map",
+    "main.f18c9c4d.js.map": "/NewLBS/static/js/main.f18c9c4d.js.map",
+    "488.9c1910f8.chunk.js.map": "/NewLBS/static/js/488.9c1910f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17678bf4.css",
+    "static/js/main.f18c9c4d.js"
+  ]
+}
